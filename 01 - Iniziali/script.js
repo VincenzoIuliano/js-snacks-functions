@@ -23,6 +23,7 @@ function firstLetterArray(listNames) {
 
 // Invoca la funzione qui e stampa il risultato in console
 
-console.log(firstLetterArray(names))
+const result= firstLetterArray(names)
+console.log(result)
 
 //Risultato atteso: ["A", "L", "M", "A", "G", "A"]
